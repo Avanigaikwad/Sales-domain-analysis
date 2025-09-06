@@ -22,3 +22,19 @@ coffee-shop-sales-analysis/
 ```
 
 ---
+
+## 🗄️ Database Setup (MySQL)
+1. Create the database:
+   ```sql
+   create database coffee_shop_sales_db;
+   use coffee_shop_sales_db;
+   ```
+2. Import the dataset into MySQL.  
+3. Run `schema.sql` to:  
+   - Fix column names  
+   - Convert `transaction_date` and `transaction_time` to proper data types  
+   - Prepare table for analysis  
+
+4. Run queries from `coffee_shop_sales.sql` for analysis and KPI calculation.  
+
+---
