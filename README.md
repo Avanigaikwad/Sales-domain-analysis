@@ -38,3 +38,31 @@ coffee-shop-sales-analysis/
 4. Run queries from `coffee_shop_sales.sql` for analysis and KPI calculation.  
 
 ---
+
+## 📊 Analysis Performed
+The following analyses are carried out in **MySQL** and validated against **Power BI visuals**:
+
+### 🔹 Sales Trends
+- Total sales by month  
+- Difference & % increase between consecutive months  
+- Daily sales with average line analysis  
+
+### 🔹 Orders & Quantities
+- Monthly orders and quantity sold  
+- Difference & % increase in orders month-over-month  
+- Daily order vs sales analysis  
+
+### 🔹 Store Performance
+- Sales by store location  
+- Weekday vs weekend sales  
+
+### 🔹 Product Insights
+- Sales by product category  
+- Top 10 products by revenue  
+
+### 🔹 Hourly & Daily Patterns
+- Sales by hour of the day  
+- Sales by day of the week  
+- Day-Hour heatmap analysis  
+
+---
