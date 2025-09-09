@@ -66,3 +66,25 @@ The following analyses are carried out in **MySQL** and validated against **Powe
 - Day-Hour heatmap analysis  
 
 ---
+## 📈 Dashboard Preview (Power BI)
+A Power BI dashboard was created on the same dataset, and its KPIs were **cross-checked with MySQL queries** to validate correctness.  
+
+![Coffee Shop Sales Dashboard](images/dashboard.png)
+
+---
+
+## 🚀 Tools Used
+- **MySQL** – Data cleaning, transformations, KPI calculation  
+- **Power BI** – Interactive dashboard creation & reporting  
+- **GitHub** – Project hosting & version control  
+
+---
+
+## 🔮 Future Scope
+- Automate SQL-to-Power BI validation using Python  
+- Add advanced KPIs (profit margin, customer segmentation)  
+- Build more interactive Power BI dashboards with drill-through and bookmarks  
+
+---
+
+👉 This project highlights how **SQL analysis supports Power BI dashboards** by validating calculations and ensuring business reports are accurate.  
