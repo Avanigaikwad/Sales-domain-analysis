@@ -17,7 +17,7 @@ coffee-shop-sales-analysis/
 │── schema.sql                  # Database schema & cleaning scripts  
 │── data/                       # Sample dataset(s)  
 │    └── coffee_shop_sales_sample.csv  
-│── images/                     # Dashboard screenshots  
+│── screenshots/                     # Dashboard screenshots  
 │    └── dashboard.png  
 ```
 
@@ -69,7 +69,7 @@ The following analyses are carried out in **MySQL** and validated against **Powe
 ## 📈 Dashboard Preview (Power BI)
 A Power BI dashboard was created on the same dataset, and its KPIs were **cross-checked with MySQL queries** to validate correctness.  
 
-![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffee Shop Sales Dashboard](screenshots/dashboard.png)
 
 ---
 
